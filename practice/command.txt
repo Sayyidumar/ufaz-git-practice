@@ -1,4 +1,4 @@
-mkdir
+mkdir - conflict branch
 touch
 ls
 cat
